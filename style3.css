@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Cactus+Classical+Serif&display=swap');
+.box{
+    width:350px;
+    margin:50px auto;
+    border:1px solid grey;
+    border-radius: 14px;
+    box-shadow: 0 5px 10px rgba(0,0,0,0.1);
+}
+.image{
+    width:100%;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.innerbox{
+    padding:20px;
+}
+.button{
+    background-color: white;
+    border:1px solid grey;
+    color:blue;
+    padding:10px 20px;
+    border-radius: 10px;
+    margin: 10px;
+    margin-left:0;
+}
+p,i{
+    color:grey;
+}
+h3{
+    font-family: "Cactus Classical Serif", serif;
+    font-weight: 300;
+}
